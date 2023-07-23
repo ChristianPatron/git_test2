@@ -1,0 +1,1 @@
+trying to see if github will automatically add this commit to the same pending PR in add-readme2 branch of git_test2 repo.
